@@ -1,6 +1,6 @@
 # Codebasics-Resume-challange-4----SQL
 
-## AtliQ ConsumerGoods SQL
+## AtliQ ConsumerGoods 
 
 As part of the codebasics resume challenge, I have written SQL queries for the given ad-hoc-requests with the detailed presentation.
 
